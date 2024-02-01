@@ -27,11 +27,13 @@ Klebe die Kupferleiterbahnen auf die Vorlage und befestige die beide LEDs. Das k
 ![Bild](/pic/Bot_ko.png)
 
 
+![Bild](/pic/Bot_K.png)
+
 Stanze die Löcher für die 5mm LEDs aus dem Grundkörper aus.
 
 Klebe die Druckvorlage in die Innenseite des Grundkörpers
 
-![Bild](/pic/BOT+Circuit.png)
+![Bild](/pic/BOTCircuit.png)
 
 Führe einen Funktionstest durch.
 
