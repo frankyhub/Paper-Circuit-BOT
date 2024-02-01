@@ -33,7 +33,7 @@ Stanze die Löcher für die 5mm LEDs aus dem Grundkörper aus.
 
 Klebe die Druckvorlage in die Innenseite des Grundkörpers
 
-![Bild](/pic/BOTCircuit.png)
+![Bild](/pic/BotCircuit.png)
 
 Führe einen Funktionstest durch.
 
