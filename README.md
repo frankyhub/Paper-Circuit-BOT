@@ -54,8 +54,8 @@ Little BOT mit 2 LEDs
 | 2        | LED 5mm rot        | 
 | 1        | R 33       | 
 | 1        | CU-Band       |
-| 1        | Druckvorlage   [Druckvorlage](/pdf/Druckvorlage-Bot.pdf)    |
-| 1        | BOT-Vorlage [BOT-Vorlag](/pdf/MetalBot2.pdf)    |
+| 1        |   [Druckvorlage](/pdf/Druckvorlage-Bot.pdf)    |
+| 1        |  [BOT-Vorlage](/pdf/MetalBot2.pdf)    |
 | 1        | Kleber     |
 
 
