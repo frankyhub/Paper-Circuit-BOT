@@ -26,6 +26,8 @@ Little BOT mit 2 LEDs
 
 ![Bild](/pic/Bot_ko.png)
 
++ Knicke den oberen Teil der Druckvorlage diagonal ein und stelle mit der kl. Wäscheklammer den Kontakt zur Batterie her (Schalter).
+
 
 ![Bild](/pic/Bot_K.png)
 
