@@ -6,7 +6,7 @@ Little BOT mit 2 LEDs
 
 ## Wir bauen einen Paper-Circuit-Bot mit 2 LEDs
 
-![Bild](/pic/BOT_g.png)
+![Bild](/pic/BOT_go.png)
 
 ## Die einzelnen Schritte:
 
