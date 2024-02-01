@@ -52,7 +52,7 @@ Little BOT mit 2 LEDs
 
 | Stück | Bezeichnung |
 | -------- | -------- | 
-| 1        |   [Druckvorlage](/pdf/BOT-Druckvorlage.pdf)    |
+| 1        |   [Druckvorlage](/pdf/Bot-Druckvorlage.pdf)    |
 | 1        |  [BOT-Vorlage](/pdf/MetalBot2.pdf)    |
 | 1        | CR2032       | 
 | 2        | LED 5mm rot        | 
