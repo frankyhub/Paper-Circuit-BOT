@@ -56,6 +56,7 @@ Little BOT mit 2 LEDs
 | 2        | LED 5mm rot        | 
 | 1        | R 33       | 
 | 1        | CU-Band       |
+| 1        | Kl. Wäscheklammer       |
 | 1        | Kleber     |
 
 
