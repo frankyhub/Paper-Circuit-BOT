@@ -28,10 +28,10 @@ Little BOT mit 2 LEDs
 
 ![Bild](/pic/Bot_ko.png)
 
-+ Knicke den oberen Teil der Druckvorlage diagonal ein und stelle mit der kl. Wäscheklammer den Kontakt zur Batterie her, das ist unser Schalter.
++ Knicke den oberen Teil der Druckvorlage diagonal ein und stelle mit der Klammerr den Kontakt zur Batterie her, das ist unser Schalter.
 
 
-![Bild](/pic/Bot_K.png)
+![Bild](/pic/BoKlammer.png)
 
 + Stanze die Löcher für die 5mm LEDs aus dem Grundkörper aus.
 
@@ -60,10 +60,12 @@ Little BOT mit 2 LEDs
 | 2        | LED 5mm rot        | 
 | 1        | R 33       | 
 | 1        | CU-Band       |
-| 1        | Kl. Wäscheklammer       |
+| 1        | Binder Clip 25mm       |
 | 1        | Kleber     |
 
+---
 
+![Bild](/pic/Robi_F.png)
 
 ---
 <div style="position:absolute; left:2cm; ">   
