@@ -28,16 +28,18 @@ Little BOT mit 2 LEDs
 
 ![Bild](/pic/Bot_ko.png)
 
-+ Knicke den oberen Teil der Druckvorlage diagonal ein und stelle mit der Klammerr den Kontakt zur Batterie her, das ist unser Schalter.
 
-
-![Bild](/pic/Klammer.png)
 
 + Stanze die Löcher für die 5mm LEDs aus dem Grundkörper aus.
 
 + Klebe die Druckvorlage in die Innenseite des Grundkörpers
 
 ![Bild](/pic/BotCircuit.png)
+
++ Knicke den oberen Teil der Druckvorlage diagonal ein und stelle mit der Klammerr den Kontakt zur Batterie her, das ist unser Schalter.
+
+
+![Bild](/pic/Klammer.png)
 
 + Führe einen Funktionstest durch.
 
