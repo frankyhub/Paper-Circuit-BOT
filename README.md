@@ -36,7 +36,7 @@ Little BOT mit 2 LEDs
 
 ![Bild](/pic/BotCircuit.png)
 
-+ Knicke den oberen Teil der Druckvorlage diagonal ein und stelle mit der Klammerr den Kontakt zur Batterie her, das ist unser Schalter.
++ Knicke den oberen Teil der Druckvorlage diagonal ein und stelle mit der Klammer den Kontakt zur Batterie her, das ist unser Schalter.
 
 
 ![Bild](/pic/Klammer.png)
