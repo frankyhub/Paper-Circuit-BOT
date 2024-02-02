@@ -49,8 +49,6 @@ Little BOT mit 2 LEDs
 
 + Falte den Grundkörper an den gestrichelten Linien und verklebe den Kopf an den Falzstellen.
 
-+ Verklebe den Body und die Füße.
-
 + Verklebe den Kopf, den Body und die Füße.
 
   ---
