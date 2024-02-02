@@ -22,6 +22,8 @@ Little BOT mit 2 LEDs
 
 + Klebe die Kupferleiterbahnen auf die Vorlage, verbinde den 33R Widerstand und befestige die beiden LEDs. Das kurze Bein der LED zeigt nach oben zu K.
 
+![Bild](/pic/33R.png)  
+
 + Befestige die Batterie mit zwei Klebestreifen. Der Plus-Pol zeigt nach oben.
 
 
