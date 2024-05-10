@@ -1,3 +1,3 @@
 ## Paper Bot Platine
 
-![Bild](d/pic/PaperBpt_B.png)
+![Bild](/pic/PaperBpt_B.png)
