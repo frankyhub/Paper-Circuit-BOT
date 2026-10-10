@@ -38,7 +38,7 @@ Little BOT mit 2 LEDs
 <img src="pic/33R.png" width="500"> 
 <br> <br>
 
-<img src="pic/lrd.png" width="500"> 
+<img src="pic/led.png" width="500"> 
 <br> <br>
 
 + Befestige die Batterie mit zwei Klebestreifen. Der Plus-Pol zeigt nach oben.
