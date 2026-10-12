@@ -11,10 +11,7 @@
 
 </div>
 
-# Paper-Circuit-BOT
-Little BOT mit 2 LEDs
-
-## Wir bauen einen Paper-Circuit-Bot mit 2 LEDs
+## Paper-Circuit-Bot mit 2 LEDs
 
 <img src="pic/BOT_go.png" width="500"> 
 <br> <br>
